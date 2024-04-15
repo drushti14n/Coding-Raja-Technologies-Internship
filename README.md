@@ -1,2 +1,3 @@
-# Coding-Raja-Technologies-Internship
-To Do list and Personal Budget tracker using Python
+# Coding-Raja-Technologies-Internship using Python
+To Do list (Task1)
+Personal Budget tracker (Task2)
