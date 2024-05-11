@@ -1,5 +1,5 @@
 # Coding-Raja-Technologies-Internship
-To Do list and Personal Budget tracker using Python
+To Do list Application and Personal Budget tracker using Python Programming Language
 
 To-Do List Application:
 •	Develop a to-do list application that allows users to manage day to day tasks.
