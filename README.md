@@ -1,5 +1,6 @@
 # Coding-Raja-Technologies-Internship
 Personal Budget tracker using Python(Task 2)
+
 Personal Budget Tracker:
 •	Developed a budget tracker allowing users to manage their expenses and income efficiently.
 •	Implemented features for expense and income entry with categories and amounts, providing a comprehensive view of financial transactions.
