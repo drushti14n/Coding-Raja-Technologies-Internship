@@ -1,5 +1,6 @@
 # Coding-Raja-Technologies-Internship on Python
-To Do list (Task1)
+To Do list Appication using Python(Task1)
+
 To-Do List Application:
 •	Develop a to-do list application that allows users to manage day to day tasks.
 •	Implemented task management functionalities such as adding, removing, updating and marking tasks as completed 
